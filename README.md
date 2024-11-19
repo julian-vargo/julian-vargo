@@ -1,5 +1,3 @@
-# Julian Vargo
-
 Hi, I'm **Julian Vargo**, a Ph.D. student in Linguistics at **UC Berkeley's Department of Spanish and Portuguese**. My academic specialties include:
 
 - **Phonetics**
