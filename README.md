@@ -6,35 +6,24 @@ Hi, I'm **Julian Vargo**, a Ph.D. student in Linguistics at **UC Berkeley's Depa
 - **Sociolinguistics**
 - **Contact Linguistics**
 - **Language Revitalization**
-
 ---
-
 ## 🎓 Academic Background
-- **B.A. in Linguistics** (Summa Cum Laude)  
-- **B.A. in Spanish & Portuguese** (Summa Cum Laude)  
-Both degrees were earned at **UC Berkeley**.
-
+- **B.A. in Linguistics from UC Berkeley** (Summa Cum Laude)  
+- **B.A. in Spanish & Portuguese from UC Berkeley** (Summa Cum Laude)  
 ---
-
 ## 📚 Current Roles
 - **Graduate Student Researcher**: Multilingual Hispanic Speech in California Corpus  
 - **Co-coordinator**: UC Berkeley's Ladino/Judeo-Spanish Working Group  
 - **College Admissions Consultant**: Independent advisor  
-
 ---
-
 ## 🚀 What's on My GitHub?
 Here you’ll find:
 - **Scripts for linguistic corpus processing**
 - **Praat scripts** for acoustic analysis
 - **Downloadable keyboards** for lower-resource languages
 - **Unpublished manuscripts**  
-
-Feel free to explore my repositories and let me know if you have any feedback or questions!
-
 ---
-
-## 📧 Contact Me
+## 📧 Contact
 Reach out via email:  
 **julianvargo [at] berkeley [dot] edu**
 
