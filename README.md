@@ -9,9 +9,7 @@ Hi, I'm **Julian Vargo**, a Ph.D. student in Linguistics at **UC Berkeley's Depa
 - **Scripts for linguistic corpus processing**
 - **Praat scripts** for acoustic analysis
 - **Downloadable keyboards** for lower-resource languages
-- **Unpublished manuscripts**  
----
-**julianvargo [at] berkeley [dot] edu**
+- **Unpublished manuscripts**
 
 
 <!---
