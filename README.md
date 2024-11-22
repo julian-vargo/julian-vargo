@@ -5,14 +5,12 @@ Hi, I'm **Julian Vargo**, a Ph.D. student in Linguistics at **UC Berkeley's Depa
 - **Contact Linguistics**
 - **Language Revitalization**
 ---
-## What's on My GitHub?
-Here you’ll find:
+  Here you’ll find:
 - **Scripts for linguistic corpus processing**
 - **Praat scripts** for acoustic analysis
 - **Downloadable keyboards** for lower-resource languages
 - **Unpublished manuscripts**  
 ---
-## 📧 Contact 
 **julianvargo [at] berkeley [dot] edu**
 
 
