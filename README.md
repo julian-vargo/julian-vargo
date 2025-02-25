@@ -4,6 +4,7 @@ Hi, I'm **Julian Vargo**, a Ph.D. student in Linguistics at **UC Berkeley's Depa
 - **Sociolinguistics**
 - **Contact Linguistics**
 - **Language Revitalization**
+- **Corpus Processing**
 ---
   Here you’ll find:
 - **Scripts for linguistic corpus processing**
